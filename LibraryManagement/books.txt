@@ -1,0 +1,58 @@
+19
+GT29358
+Gulliver's Travels
+Jonathan Swift
+F54368
+Frankenstein
+Mary Shelley
+EA03956
+Emma
+Jane Austen
+TW30693
+The Woman in White
+Wilkie Collins
+DI59777
+Divergent
+Veronica Roth
+LW50936
+Little Women
+Louisa Alcott
+GG34908
+The Great Gatsby
+Scott Fitzgerald
+CW03124
+Charlotte's Web
+EB White
+CC94866
+Catch-22
+Joseph Heller
+TK93466
+To Kill a Mockingbird
+Harper Lee
+HP40955
+Harry Potter and the Sorcerer's Stone
+JK Rowling
+TT34958
+A Tale of Two Cities
+Charles Dickens
+TH93458
+The Hobbit
+J.R.R. Tolkien
+LL59386
+Lolita
+Vladimir Nabokov
+GB05694
+Goosebumps: The Haunted Mask
+R.L. Stein
+PR35555
+Peter Rabbit
+Beatrix Potter
+DW22022
+Diary of a Wimpy Kid
+Jeff Kinney
+FS49082
+Fifty Shades of Grey
+E.L. James
+OT23455
+Oliver Twist
+Charles Dickens
